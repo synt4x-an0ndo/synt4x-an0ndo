@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README with Top Skills and Custom Meme GIF -->
 
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">Gazi Mohammad Anondo</span>
+  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">GM Anondo</span>
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 -  Currently learning **Python & Backend Development**  
 -  Passionate about **Frontend & Modern Web Applications**  
 -  Reach me: **gmmillat1100@gmail.com**  
@@ -27,14 +27,14 @@
 
 ---
 
-## 🛠️ Top Skills
+## Top Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,nodejs,mongodb,django" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://fb.com/user.fakefox" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
