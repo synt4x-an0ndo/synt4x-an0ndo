@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README with Top Skills and Custom Meme GIF -->
 
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">Gm Anondo</span>
+  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">Gazi Mohammad Anondo</span>
 </h1>
 
 <h3 align="center">
@@ -15,11 +15,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Python & Backend Development**  
-- 💻 Passionate about **Frontend & Modern Web Applications**  
-- 📫 Reach me: **gmmillat1100@gmail.com**  
-- ⚡ Fun fact: I believe in **clean code & continuous growth**  
-- 😂 Meme line: *“Professional bug creator, part-time fixer.”*  
+-  Currently learning **Python & Backend Development**  
+-  Passionate about **Frontend & Modern Web Applications**  
+-  Reach me: **gmmillat1100@gmail.com**  
+-  Fun fact: I believe in **clean code & continuous growth**  
+-  Special Line: *“Professional bug creator, part-time fixer.”*  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="custom meme gif"/>
