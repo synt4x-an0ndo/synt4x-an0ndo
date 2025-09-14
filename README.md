@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Frontend Developer | Lifelong Learner | Tech Enthusiast
+  Frontend Developer | Lifelong Learner | Tech Enthusiast | Sometime's Full Stack Dev
 </h3>
 
 <p align="center">
