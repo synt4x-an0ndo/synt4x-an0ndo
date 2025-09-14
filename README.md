@@ -16,7 +16,7 @@
 
 ## About Me
 -  Currently learning **Python & Backend Development**  
--  Passionate about **Frontend & Modern Web Applications**  
+-  Passionate about **Frontend, UI/UX Dev & Modern Web Applications**  
 -  Reach me: **gmmillat1100@gmail.com**  
 -  Fun fact: I believe in **clean code & continuous growth**  
 -  Special Line: *“Professional bug creator, part-time fixer.”*  
