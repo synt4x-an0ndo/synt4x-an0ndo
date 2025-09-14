@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README with Top Skills and Custom Meme GIF -->
 
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">GM Anondo</span>
+  <span style="background: linear-gradient(to right, #0A66C2, #00BFFF); -webkit-background-clip: text; color: transparent;">Gm Anondo</span>
 </h1>
 
 <h3 align="center">
