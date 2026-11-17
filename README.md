@@ -14,12 +14,17 @@
 
 ---
 
-## About Me
--  Currently learning **Python & Backend Development**  
--  Passionate about **Frontend, UI/UX Dev & Modern Web Applications**  
--  Reach me: **gmmillat1100@gmail.com**  
--  Fun fact: I believe in **clean code & continuous growth**  
--  Special Line: *“Professional bug creator, part-time fixer.”*  
+About Me
+
+- Full-Stack Developer & Founder of [The Raw Bros](https://therawbros.tech/), a web development agency building custom websites and web apps
+- Built and shipped live e-commerce platforms: [Zuberee](https://zuberee.com) and [Tazzy](https://tazzybd.com)
+- Also built CareerEdge.AI (AI interview practice) and IngreChec
+- Working with Next.js, React, Node.js, Express & PostgreSQL
+- B.Sc in Computer Science & Engineering, with research interest in AI
+- Portfolio: [gmanondo.me](https://gmanondo.me)
+- Reach me: gmmillat1100@gmail.com
+- Fun fact: I believe in clean code & continuous growth
+- Special Line: “Professional bug creator, part-time fixer.”
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="custom meme gif"/>
